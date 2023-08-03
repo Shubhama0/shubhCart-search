@@ -3,13 +3,13 @@ let products = {
     {
       productName: "Bat",
       category: "Cricket",
-      price: "30",
+      price: "130",
       image:"img/bat.jpeg",
     },
     {
       productName: "Iphone ",
       category: "Mobile",
-      price: "49",
+      price: "1049",
       image: "img/iphone.jpeg",
     },
     {
@@ -28,7 +28,7 @@ let products = {
     {
       productName: "Gloves",
       category: "Cricket",
-      price: "29",
+      price: "49",
       image:"img/gloves.jpeg",
     },
 
@@ -42,7 +42,7 @@ let products = {
     {
       productName: "Xiomi",
       category: "Mobile",
-      price: "89",
+      price: "899",
       image:"img/xiomi.jpeg",
     },
     {
@@ -54,7 +54,7 @@ let products = {
     {
       productName: "Samsung",
       category: "Mobile",
-      price: "49",
+      price: "999",
       image: "img/samsung.jpeg",
     },
   ],
